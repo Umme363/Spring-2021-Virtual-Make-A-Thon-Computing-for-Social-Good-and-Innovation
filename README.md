@@ -3,7 +3,7 @@ Inspiration:
 	We wanted to help people find free food sources because we know that America suffers from massive food insufficiency. We also know the world suffers from mass pollution and extreme hunger--these resources provided will slowly stop these two massive issues. Resulting in a cleaner world with equal opportunity for food.
 
 Our Mission:
-This is a website that was created to help those in need of free food resources. It was also created to help allow restaurants, food trucks, grocery stores, and anything in between to becoming more waste-free by giving back to the community.
+	This is a website that was created to help those in need of free food resources. It was also created to help allow restaurants, food trucks, grocery stores, and anything in between to becoming more waste-free by giving back to the community.
 
 Technology Used:
 Google Docs | Slack | Google Sites | IBM Watson AI | OBS | IBM Cloud | Github | Draw.io
@@ -17,7 +17,7 @@ Our Future:
 	We hope this website can stay up, be updated, and help everyone in need of food.
 
 What we have learned:
-Through IBM we were able to learn how to build and deploy a chatbot on a website.
+	Through IBM we were able to learn how to build and deploy a chatbot on a website.
 
 We have learned how to work on google sites.
 
